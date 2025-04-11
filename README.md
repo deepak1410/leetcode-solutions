@@ -1,2 +1,5 @@
-# leetcode-solutions
-This repository contains solutions for Leetcode common problems
+## LeetCode Solutions
+
+This repository contains: 
+* solutions for various Leetcode's problems
+* Unit tests for the solutions
